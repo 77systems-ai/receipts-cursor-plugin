@@ -1,0 +1,33 @@
+{
+  "name": "receipts-77systems",
+  "displayName": "Receipts by 77systems",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Verify AI agent writes by reading back the destination's ID.",
+  "author": {
+    "name": "77systems",
+    "email": "hello@77systems.ai"
+  },
+  "homepage": "https://www.77systems.ai/receipts",
+  "repository": "https://github.com/77systems-ai/receipts-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "receipts",
+    "77systems",
+    "verification",
+    "audit",
+    "ai-agents",
+    "mcp"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "receipts",
+    "verification",
+    "audit",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}
